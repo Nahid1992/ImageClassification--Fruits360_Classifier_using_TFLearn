@@ -11,6 +11,6 @@ The Fruits 360 Dataset was downloaded from Kaggle Datasets website.
 	Image size: 100x100 pixels.
 	
 ## Dependencies
-*Python 3.6.2
-*TensorFlow
-*TFLearn
+* Python 3.6.2
+* TensorFlow
+* TFLearn
