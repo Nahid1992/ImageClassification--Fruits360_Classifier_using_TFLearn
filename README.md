@@ -1,7 +1,7 @@
 # Image Classification
 ### Fruits Classifier using TFLearn
 
-In this project a Classifier was built to predict Images of Fruits. The code was done in TFLearn on top of TensorFlow. 
+In this project, built a Classifier to predict images of Fruits. The code was done in TFLearn on top of TensorFlow. 
 
 ### DataBase
 The Fruits 360 Dataset was downloaded from [Kaggle Datasets](https://www.kaggle.com/moltean/fruits) website. 
