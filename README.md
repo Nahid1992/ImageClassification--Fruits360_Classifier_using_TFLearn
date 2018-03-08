@@ -1,5 +1,5 @@
 # Image Classification
-## Fruits Classifier using TFLearn
+### Fruits Classifier using TFLearn
 
 In this project a Classifier was built to predict Images of Fruits. The code was done in TFLearn on top of TensorFlow. 
 
