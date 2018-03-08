@@ -3,7 +3,7 @@
 In this project a Classifier was built to predict Images of Fruits. The code was done in TFLearn on top of TensorFlow. 
 
 ## DataBase
-The Fruits 360 Dataset was downloaded from Kaggle Datasets website. 
+The Fruits 360 Dataset was downloaded from [Kaggle Datasets](https://www.kaggle.com/moltean/fruits) website. 
 ### Dataset Properties:
 	Training set size: 28736 images.
 	Validation set size: 9673 images.
